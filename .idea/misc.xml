@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/drawable/description_background.xml" value="0.1" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/drawable/details_fragment_background.xml" value="0.1085" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/font/font.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/layout/fragment_first.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/layout/item_details_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/layout/item_list_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/layout/load_state_footer.xml" value="0.25" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/layout/recycler_view_item.xml" value="0.1" />
+        <entry key="..\:/Users/aliar/AndroidStudioProjects/ITunesSearchApi/app/src/main/res/layout/search_bar_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

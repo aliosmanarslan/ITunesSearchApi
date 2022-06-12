@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">iTunes Search App</string>
+    <string name="genre_time_date_divider"> - </string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="description">Description</string>
+    <string name="listen_sample">Listen Sample</string>
+    <string name="navigate_to_itunes_page">Navigate to iTunes Page</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
